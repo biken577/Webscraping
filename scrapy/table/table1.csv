@@ -1,0 +1,327 @@
+City,State,change
+New York,New York,+7.69%
+Los Angeles,California,+2.80%
+Chicago,Illinois,+1.88%
+Houston,Texas,+9.77%
+Phoenix,Arizona,+11.24%
+Philadelphia,Pennsylvania,+5.10%
+San Antonio,Texas,+8.08%
+San Diego,California,+6.08%
+Dallas,Texas,+8.90%
+San Jose,California,+7.11%
+Austin,Texas,+21.69%
+Jacksonville,Florida,+15.55%
+Fort Worth,Texas,+23.98%
+Columbus,Ohio,+15.08%
+Indianapolis,Indiana,+8.19%
+Charlotte,North Carolina,+19.57%
+San Francisco,California,+8.54%
+Seattle,Washington,+21.09%
+Denver,Colorado,+19.22%
+Washington,District of Columbia,+14.60%
+[k],Tennessee,+14.67%
+Oklahoma City,Oklahoma,+17.42%
+El Paso,Texas,+4.57%
+Boston,Massachusetts,+9.40%
+Portland,Oregon,+11.77%
+Las Vegas,Nevada,+9.96%
+Detroit,Michigan,−10.46%
+Memphis,Tennessee,−2.13%
+Louisville,Kentucky,+5.98%
+Baltimore,Maryland,−5.68%
+Milwaukee,Wisconsin,−2.96%
+Albuquerque,New Mexico,+3.43%
+Tucson,Arizona,+4.33%
+Fresno,California,+9.59%
+Sacramento,California,+12.53%
+Kansas City,Missouri,+10.51%
+Mesa,Arizona,+14.85%
+Atlanta,Georgia,+18.74%
+Omaha,Nebraska,+18.85%
+Colorado Springs,Colorado,+15.02%
+Raleigh,North Carolina,+15.79%
+Long Beach,California,+0.97%
+Virginia Beach,Virginia,+4.90%
+Miami,Florida,+10.71%
+Oakland,California,+12.78%
+Minneapolis,Minnesota,+12.38%
+Tulsa,Oklahoma,+5.40%
+Bakersfield,California,+16.11%
+Wichita,Kansas,+3.97%
+Arlington,Texas,+7.89%
+Aurora,Colorado,+18.82%
+Tampa,Florida,+14.67%
+New Orleans,Louisiana,+11.68%
+Cleveland,Ohio,−6.10%
+Honolulu,Hawaii,+4.06%
+Anaheim,California,+3.14%
+Lexington,Kentucky,+9.05%
+Stockton,California,+9.97%
+Corpus Christi,Texas,+4.14%
+Henderson,Nevada,+23.23%
+Riverside,California,+3.66%
+Newark,New Jersey,+12.42%
+Saint Paul,Minnesota,+9.28%
+Santa Ana,California,−4.41%
+Cincinnati,Ohio,+4.17%
+Irvine,California,+44.87%
+Orlando,Florida,+29.07%
+Pittsburgh,Pennsylvania,−0.89%
+St. Louis,Missouri,−5.55%
+Greensboro,North Carolina,+10.89%
+Jersey City,New Jersey,+18.11%
+Anchorage,Alaska,−0.20%
+Lincoln,Nebraska,+12.66%
+Plano,Texas,+9.87%
+Durham,North Carolina,+24.17%
+Buffalo,New York,+6.52%
+Chandler,Arizona,+16.88%
+Chula Vista,California,+12.94%
+Toledo,Ohio,−5.69%
+Madison,Wisconsin,+15.71%
+Gilbert,Arizona,+28.53%
+Reno,Nevada,+17.29%
+Fort Wayne,Indiana,+4.02%
+North Las Vegas,Nevada,+21.00%
+St. Petersburg,Florida,+5.53%
+Lubbock,Texas,+12.01%
+Irving,Texas,+18.68%
+Laredo,Texas,+8.10%
+Winston–Salem,North Carolina,+8.68%
+Chesapeake,Virginia,+12.25%
+Glendale,Arizona,+9.53%
+Garland,Texas,+8.44%
+Scottsdale,Arizona,+11.03%
+Norfolk,Virginia,−1.98%
+Boise,Idaho,+14.59%
+Fremont,California,+7.67%
+Spokane,Washington,+9.61%
+Santa Clarita,California,+29.69%
+Baton Rouge,Louisiana,−0.88%
+Richmond,Virginia,+10.97%
+Hialeah,Florida,−0.69%
+San Bernardino,California,+5.80%
+Tacoma,Washington,+10.56%
+Modesto,California,+8.60%
+Huntsville,Alabama,+19.38%
+Des Moines,Iowa,+5.26%
+Yonkers,New York,+7.96%
+Rochester,New York,+0.36%
+Moreno Valley,California,+7.90%
+Fayetteville,North Carolina,+3.96%
+Fontana,California,+6.29%
+Columbus,Georgia,+8.97%
+Worcester,Massachusetts,+14.07%
+Port St. Lucie,Florida,+24.45%
+Little Rock,Arkansas,+4.69%
+Augusta,Georgia,+3.18%
+Oxnard,California,+2.10%
+Birmingham,Alabama,−5.42%
+Montgomery,Alabama,−2.51%
+Frisco,Texas,+71.39%
+Amarillo,Texas,+5.09%
+Salt Lake City,Utah,+7.12%
+Grand Rapids,Michigan,+5.78%
+Huntington Beach,California,+4.59%
+Overland Park,Kansas,+13.77%
+Glendale,California,+2.52%
+Tallahassee,Florida,+8.16%
+Grand Prairie,Texas,+11.80%
+McKinney,Texas,+48.96%
+Cape Coral,Florida,+25.74%
+Sioux Falls,South Dakota,+25.10%
+Peoria,Arizona,+23.96%
+Providence,Rhode Island,+7.24%
+Vancouver,Washington,+18.00%
+Knoxville,Tennessee,+6.63%
+Akron,Ohio,−4.34%
+Shreveport,Louisiana,−5.88%
+Mobile,Alabama,−4.14%
+Brownsville,Texas,+6.69%
+Newport News,Virginia,+3.06%
+Fort Lauderdale,Florida,+10.41%
+Chattanooga,Tennessee,+8.01%
+Tempe,Arizona,+11.67%
+Aurora,Illinois,−8.77%
+Santa Rosa,California,+6.14%
+Eugene,Oregon,+13.11%
+Elk Grove,California,+15.10%
+Salem,Oregon,+13.51%
+Ontario,California,+6.92%
+Cary,North Carolina,+29.20%
+Rancho Cucamonga,California,+5.56%
+Oceanside,California,+4.18%
+Lancaster,California,+10.78%
+Garden Grove,California,+0.62%
+Pembroke Pines,Florida,+11.14%
+Fort Collins,Colorado,+17.94%
+Palmdale,California,+10.93%
+Springfield,Missouri,+6.07%
+Clarksville,Tennessee,+25.42%
+Salinas,California,+8.71%
+Hayward,California,+13.02%
+Paterson,New Jersey,+9.26%
+Alexandria,Virginia,+13.93%
+Macon,Georgia,+72.24%
+Corona,California,+3.13%
+Kansas City,Kansas,+7.42%
+Lakewood,Colorado,+9.09%
+Springfield,Massachusetts,+1.87%
+Sunnyvale,California,+11.22%
+Jackson,Mississippi,−11.42%
+Killeen,Texas,+19.68%
+Hollywood,Florida,+8.74%
+Murfreesboro,Tennessee,+40.47%
+Pasadena,Texas,+1.95%
+Bellevue,Washington,+24.10%
+Pomona,California,+1.78%
+Escondido,California,+4.95%
+Joliet,Illinois,+1.99%
+Charleston,South Carolina,+25.10%
+Mesquite,Texas,+7.35%
+Naperville,Illinois,+5.42%
+Rockford,Illinois,−2.76%
+Bridgeport,Connecticut,+3.07%
+Syracuse,New York,+2.38%
+Savannah,Georgia,+8.43%
+Roseville,California,+24.40%
+Torrance,California,+1.12%
+Fullerton,California,+6.26%
+Surprise,Arizona,+21.81%
+McAllen,Texas,+9.50%
+Thornton,Colorado,+19.44%
+Visalia,California,+13.61%
+Olathe,Kansas,+12.25%
+Gainesville,Florida,+13.45%
+West Valley City,Utah,+8.30%
+Orange,California,+2.56%
+Denton,Texas,+23.36%
+Warren,Michigan,+3.98%
+Pasadena,California,+1.15%
+Waco,Texas,+10.96%
+Cedar Rapids,Iowa,+9.01%
+Dayton,Ohio,−2.74%
+Elizabeth,New Jersey,+9.87%
+Hampton,Virginia,−0.21%
+Columbia,South Carolina,+5.69%
+Kent,Washington,+47.80%
+Stamford,Connecticut,+10.46%
+Lakewood,New Jersey,+45.58%
+Victorville,California,+16.31%
+Miramar,Florida,+10.39%
+Coral Springs,Florida,+10.98%
+Sterling Heights,Michigan,+3.58%
+New Haven,Connecticut,+3.27%
+Carrollton,Texas,+12.04%
+Midland,Texas,+19.23%
+Norman,Oklahoma,+15.42%
+Santa Clara,California,+9.60%
+Athens,Georgia,+10.28%
+Thousand Oaks,California,+0.22%
+Topeka,Kansas,−0.70%
+Simi Valley,California,+1.71%
+Columbia,Missouri,+16.36%
+Vallejo,California,+8.75%
+Fargo,North Dakota,+19.37%
+Allentown,Pennsylvania,+6.62%
+Pearland,Texas,+37.89%
+Concord,California,+2.74%
+Abilene,Texas,+6.94%
+Arvada,Colorado,+16.88%
+Berkeley,California,+10.43%
+Ann Arbor,Michigan,+8.70%
+Independence,Missouri,+5.29%
+Rochester,Minnesota,+13.70%
+Lafayette,Louisiana,+0.62%
+Hartford,Connecticut,−2.98%
+College Station,Texas,+28.40%
+Clovis,California,+25.61%
+Fairfield,California,+13.82%
+Palm Bay,Florida,+16.06%
+Richardson,Texas,+20.40%
+Round Rock,Texas,+19.60%
+Cambridge,Massachusetts,+12.59%
+Meridian,Idaho,+56.65%
+West Palm Beach,Florida,+17.51%
+Evansville,Indiana,−0.11%
+Clearwater,Florida,+8.92%
+Billings,Montana,+12.43%
+West Jordan,Utah,+12.77%
+Richmond,California,+12.29%
+Westminster,Colorado,+9.62%
+Manchester,New Hampshire,+5.55%
+Lowell,Massachusetts,+8.48%
+Wilmington,North Carolina,+8.43%
+Antioch,California,+12.62%
+Beaumont,Texas,−2.55%
+Provo,Utah,+2.38%
+North Charleston,South Carolina,+17.83%
+Elgin,Illinois,+6.11%
+Carlsbad,California,+8.94%
+Odessa,Texas,+14.50%
+Waterbury,Connecticut,+3.66%
+Springfield,Illinois,−1.60%
+League City,Texas,+36.90%
+Downey,California,+2.31%
+Gresham,Oregon,+8.19%
+High Point,North Carolina,+9.28%
+Broken Arrow,Oklahoma,+14.86%
+Peoria,Illinois,−1.61%
+Lansing,Michigan,−1.45%
+Lakeland,Florida,+15.62%
+Pompano Beach,Florida,+12.22%
+Costa Mesa,California,+1.78%
+Pueblo,Colorado,+4.95%
+Lewisville,Texas,+17.35%
+Miami Gardens,Florida,+4.17%
+Las Cruces,New Mexico,+14.10%
+Sugar Land,Texas,+40.87%
+Murrieta,California,+7.23%
+Ventura,California,+4.07%
+Everett,Washington,+7.39%
+Temecula,California,+9.90%
+Dearborn,Michigan,+12.05%
+Santa Maria,California,+10.20%
+West Covina,California,+3.21%
+El Monte,California,−3.55%
+Greeley,Colorado,+17.12%
+Sparks,Nevada,+20.14%
+Centennial,Colorado,+8.01%
+Boulder,Colorado,+11.16%
+Sandy Springs,Georgia,+15.16%
+Inglewood,California,−1.74%
+Edison,New Jersey,+7.62%
+South Fulton,Georgia,
+Green Bay,Wisconsin,+3.21%
+Burbank,California,+3.87%
+Renton,Washington,+17.44%
+Hillsboro,Oregon,+16.19%
+El Cajon,California,+6.77%
+Tyler,Texas,+9.39%
+Davie,Florida,+14.89%
+San Mateo,California,+8.70%
+Brockton,Massachusetts,+12.61%
+Concord,North Carolina,+33.10%
+Jurupa Valley,California,+11.48%
+Daly City,California,+3.74%
+Allen,Texas,+24.19%
+Rio Rancho,New Mexico,+18.88%
+Rialto,California,+4.90%
+Woodbridge,New Jersey,+4.07%
+South Bend,Indiana,+2.26%
+Spokane Valley,Washington,+14.73%
+Norwalk,California,−2.63%
+Menifee,California,+32.26%
+Vacaville,California,+10.77%
+Wichita Falls,Texas,−2.14%
+Davenport,Iowa,+2.05%
+Quincy,Massachusetts,+10.15%
+Chico,California,+17.74%
+Lynn,Massachusetts,+12.09%
+Lee's Summit,Missouri,+10.67%
+New Bedford,Massachusetts,+6.32%
+Federal Way,Washington,+13.13%
+Clinton,Michigan,+3.84%
+Edinburg,Texas,+30.02%
+Nampa,Idaho,+22.86%
+Roanoke,Virginia,+3.07%
